@@ -421,7 +421,7 @@ static const char *default_variables[] =
     "CC", "cc",
 #endif
     "CD", "builtin_cd",
-    "ECHO", "builtin_echo",
+    "ECHO", "echo",
 #ifdef GCC_IS_NATIVE
     "C++", "gcc/plus",
     "CXX", "gcc/plus",
